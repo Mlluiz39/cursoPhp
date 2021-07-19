@@ -1,5 +1,5 @@
 ### Operadores de comparação
-Igual (*==*) - verifica se os valores comparados são *iguais*
+1. Igual (*==*) - verifica se os valores comparados são *iguais*
 
 Idêntico (*===*) - verifica se os valores comparados são *iguais e do mesmo tipo*
 
