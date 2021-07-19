@@ -11,9 +11,9 @@
   <!-- comentários html-->
 
   <?php
-   echo 'Comentarios de uma linha';
+   echo 'Comentarios de uma linha <br>';
   //comentários de uma linha
-  echo 'Comentários de uma linha via shell';
+  echo 'Comentários de uma linha via shell<br>';
   #comentários de uma linha estilo shell
   echo 'Comentarios de multiplas linhas'
   /*
