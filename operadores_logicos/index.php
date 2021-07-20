@@ -55,7 +55,7 @@ if($Usuario_possui_cartao_loja || $valor_compra >= 100) {
 
 <h1>Detalhes do Pedido</h1>
 
-<p>Possui cartão da loja?</p>
+<p>Possui cartão da loja?
 
 <?php
 if($Usuario_possui_cartao_loja) {
@@ -64,9 +64,10 @@ if($Usuario_possui_cartao_loja) {
   echo 'NÃO';
 }
 ?>
+</p>
 <p>Valor da compra: <?=$valor_compra ?></p>
 
-<p>Recebeu desconto no frete?</p>
+<p>Recebeu desconto no frete?
 
 <?php
 if($recebeu_desconto_frete) {
@@ -75,6 +76,7 @@ if($recebeu_desconto_frete) {
   echo 'NÃO';
 }
 ?>
+</p>
 
 <p>Valor do frete: <?=$valor_frete ?></p>
 </body>
