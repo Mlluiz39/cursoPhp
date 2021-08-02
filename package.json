@@ -1,0 +1,19 @@
+{
+  "name": "cursophp",
+  "version": "1.0.0",
+  "description": "curso da udemy de php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mlluiz39/cursoPhp.git"
+  },
+  "author": "Marcelo Luiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mlluiz39/cursoPhp/issues"
+  },
+  "homepage": "https://github.com/Mlluiz39/cursoPhp#readme"
+}
